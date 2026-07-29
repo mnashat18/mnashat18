@@ -1,12 +1,40 @@
 # Hi, I'm Mohamed Nashat Ghonim 👋
 
-Frontend Engineer specialized in Angular and TypeScript.
+Frontend Engineer | Angular Developer
 
-I build responsive, scalable web applications and production-ready interfaces.
+I build scalable web applications using Angular, TypeScript, and modern frontend technologies.
 
-## 🚀 Skills
+I also have experience building complete products with Flutter mobile applications, REST APIs, Directus backends, and AI-powered services.
+
+---
+
+## 🚀 Featured Project
+
+## Wellar AI SaaS Platform
+
+A complete SaaS platform independently designed and developed.
+
+Architecture:
+
+- Angular 21 Frontend
+- Flutter Android Application
+- Directus/PostgreSQL Backend
+- Python FastAPI AI Service
+
+My responsibilities:
+
+- Frontend architecture and development
+- Mobile application development
+- API integrations
+- AI service integration
+- Production deployment
+
+---
+
+## 🛠 Skills
 
 ### Frontend
+
 - Angular
 - TypeScript
 - JavaScript
@@ -14,14 +42,15 @@ I build responsive, scalable web applications and production-ready interfaces.
 - HTML5
 - CSS3
 - Tailwind CSS
-- Responsive Design
 
 ### Mobile
+
 - Flutter
-- Android Applications
+- Dart
 - Firebase Notifications
 
 ### Backend & Tools
+
 - REST APIs
 - Directus
 - PostgreSQL
@@ -29,22 +58,15 @@ I build responsive, scalable web applications and production-ready interfaces.
 - Docker
 - Git/GitHub
 
-## Featured Project
+---
 
-### Wellar AI SaaS Platform
+## Projects
 
-A production-ready SaaS platform combining:
+- Wellar AI Frontend
+- Wellar AI Server
+- Wellar Flutter App
 
-- Angular Web Application
-- Flutter Mobile Application
-- Directus/PostgreSQL Backend
-- AI Services Integration
-
-Features:
-- Role-based experiences
-- Notifications
-- Camera and audio workflows
-- REST API integrations
+---
 
 ## Contact
 
