@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Mohamed Nashat Ghonim 👋
 
-<!--
-**mnashat18/mnashat18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer specialized in Angular and TypeScript.
 
-Here are some ideas to get you started:
+I build responsive, scalable web applications and production-ready interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- RxJS
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Design
+
+### Mobile
+- Flutter
+- Android Applications
+- Firebase Notifications
+
+### Backend & Tools
+- REST APIs
+- Directus
+- PostgreSQL
+- FastAPI
+- Docker
+- Git/GitHub
+
+## Featured Project
+
+### Wellar AI SaaS Platform
+
+A production-ready SaaS platform combining:
+
+- Angular Web Application
+- Flutter Mobile Application
+- Directus/PostgreSQL Backend
+- AI Services Integration
+
+Features:
+- Role-based experiences
+- Notifications
+- Camera and audio workflows
+- REST API integrations
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/mohamed-nashat-ghonim
+
+Portfolio:
+https://mnashat1806.getportify.com/
