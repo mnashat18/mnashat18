@@ -1,77 +1,23 @@
 # Hi, I'm Mohamed Nashat Ghonim 👋
 
-Frontend Engineer | Angular Developer
+Full-Stack Developer | Angular, Node.js, TypeScript, PostgreSQL
 
-I build scalable web applications using Angular, TypeScript, and modern frontend technologies.
-
-I also have experience building complete products with Flutter mobile applications, REST APIs, Directus backends, and AI-powered services.
+I build web applications with Angular and TypeScript, backed by PostgreSQL and REST APIs, with Flutter for mobile and Python for AI services.
 
 ---
 
 ## 🚀 Featured Project
 
-## Wellar AI SaaS Platform
+## Wisebase: Workforce Management Platform
 
-A complete SaaS platform independently designed and developed.
+A multi-role workforce management platform (owner, HR, manager, employee) that I built at DataC and keep improving.
+
+Product page: https://conntinuity.datac.com/
 
 Architecture:
 
-- Angular 21 Frontend
-- Flutter Android Application
-- Directus/PostgreSQL Backend
-- Python FastAPI AI Service
-
-My responsibilities:
-
-- Frontend architecture and development
-- Mobile application development
-- API integrations
-- AI service integration
-- Production deployment
-
----
-
-## 🛠 Skills
-
-### Frontend
-
-- Angular
-- TypeScript
-- JavaScript
-- RxJS
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Mobile
-
-- Flutter
-- Dart
-- Firebase Notifications
-
-### Backend & Tools
-
-- REST APIs
-- Directus
-- PostgreSQL
-- FastAPI
-- Docker
-- Git/GitHub
-
----
-
-## Projects
-
-- Wellar AI Frontend
-- Wellar AI Server
-- Wellar Flutter App
-
----
-
-## Contact
-
-LinkedIn:
-https://www.linkedin.com/in/mohamed-nashat-ghonim
-
-Portfolio:
-https://mnashat1806.getportify.com/
+- Angular 21 web app
+- Flutter Android app
+- PostgreSQL database
+- Python FastAPI AI service
+- Docker deployment
